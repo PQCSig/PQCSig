@@ -17,5 +17,6 @@
   - [neuzida](https://neuzida.io)
     - [Webmazer Project](https://webmazer.io)
 
-#### 👩‍💻&nbsp;You may support the maintenance of my open source work by [buying me a coffee](https://www.buymeacoffee.com/Nerissa.io ) for now, and soon sponsor me here on Github &nbsp;🤗 
+#### 👩‍💻&nbsp;You may support the maintenance of my open source work by [buying me a coffee](https://www.buymeacoffee.com/Nerissa.io ) for now, and soon sponsor me here on Github &nbsp;🤗
+
 
