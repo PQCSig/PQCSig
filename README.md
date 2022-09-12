@@ -2,7 +2,7 @@
 
 #### 📃 About me
 - 👩‍💻  &nbsp;Human-Centered Technologist. 
-- 💻  &nbsp;Mostly Blockchain,DApps, Smart Contracts and AI Data Science.
+- 💻  &nbsp;Mostly Blockchain, DApps, Smart Contracts and AI Data Science.
 - 😊  &nbsp;Open-source enthusiast.
 - 📫  &nbsp;Reach me [at] [nerissa.io](https://www.nerissa.io)
 
