@@ -13,7 +13,7 @@
 - Managing projects/iterations by data & metrics 
 - Creating & automating bots and processes
 - Designing with security at forefront
-- Developing/Writing smart contracts & dApps
+- Developing/Writing smart contracts & DApps
   - [neuzida](https://neuzida.com)
     - [Webmazer Project](https://webmazer.io)
 
