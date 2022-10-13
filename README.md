@@ -9,9 +9,9 @@
 #### 🌱 What I'm up to
 - [Facilitating tech/web3 training & sessions](https://neuzida.io)
 - Writing and developing curriculum 
-  -[Reach](https://reach.sh) a safe, smart and fast programming language, compiler and deployment tool
+  - [Reach](https://reach.sh) a safe, smart and fast programming language, compiler, and deployment tool
 - Gamifying curriculum 
-  -[neuzida](https://neuzida.io) an edutech provider 
+  - [neuzida](https://neuzida.io) an edutech provider 
 - [Writing blog posts](https://nerissa.io) 
 - Managing projects/iterations by data & metrics 
 - Creating & automating bots and processes
