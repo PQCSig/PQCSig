@@ -8,7 +8,7 @@
 
 #### 🌱 What I'm up to
 - [Facilitating tech/web3 training & sessions](https://neuzida.io)
-- [Writing, developing & gamifying curriculum](https:webmazer.io)
+- [Writing, developing & curriculum] at (https:Reach.sh) & gamifying curriculum (https:webmazer.io)
 - [Writing blog posts](https://nerissa.io) 
 - Managing projects/iterations by data & metrics 
 - Creating & automating bots and processes
