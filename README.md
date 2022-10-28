@@ -17,7 +17,7 @@
 - Creating & automating bots and processes
 - Designing with security at forefront
 - Developing/Writing smart contracts & DApps
-  - [neuzida](https://neuzida.com)
-    - [Webmazer Project](https://webmazer.io)
+  - [neuzida](https://neuzida.io)
+    - [Webmazer Project](https://neuzida.io)
 
 #### 👩‍💻&nbsp;Support the maintenance of my open source work by [buying me a coffee](https://www.buymeacoffee.com/Nerissa.io ) for now, and soon sponsor me here &nbsp;🤗
