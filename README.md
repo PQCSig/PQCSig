@@ -17,7 +17,7 @@
 - Managing projects/iterations by data & metrics 
 - Creating & automating bots and processes
 - Designing with security at forefront
-- Developing/Writing smart contracts & DApps
+- Web2/Web3 Dev 
   - [neuzida](https://neuzida.io)
     - [Webmazer Project](https://neuzida.io)
 
