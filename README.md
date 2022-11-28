@@ -1,9 +1,9 @@
 <h3> Hi there 👋, I'm Nerissa</h3>
 
 #### 📃 About me
-- 👩‍💻  &nbsp;Human-Centered Technologist. 
+- 👩‍💻  &nbsp;Human-Centered Technologist
 - 💻  &nbsp;Refocused on Security, DApps, Blockchain and AI DataSci
-- 😊  &nbsp;Open-source enthusiast.
+- 😊  &nbsp;Open-source enthusiast
 - 📫  &nbsp;Reach me [at] [nerissa.io](https://www.nerissa.io)
 
 #### 🌱 What I'm up to
