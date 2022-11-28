@@ -7,7 +7,7 @@
 - 📫  &nbsp;Reach me [at] [nerissa.io](https://www.nerissa.io)
 
 #### 🌱 What I'm up to
-- Indulging in all things linux and prepping for Security certs
+- Prepping for Security certs
 - [Facilitating tech/web3 training & sessions](https://neuzida.io)
 - Writing and developing curriculum 
   - [Reach](https://reach.sh) a safe, smart and fast programming language, compiler, and deployment tool
