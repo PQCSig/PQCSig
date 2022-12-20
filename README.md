@@ -17,7 +17,7 @@
 - Managing projects/iterations by data & metrics 
 - Creating & automating bots and processes
 - Designing with security at forefront
-- Web2/Web3 Dev 
+- Credential Verification Open-source 
   - [neuzida](https://neuzida.io)
     - [Webmazer Project](https://neuzida.io)
 
