@@ -17,7 +17,7 @@
 - Managing projects/iterations by data & metrics 
 - Creating & automating bots and processes
 - Designing with security at forefront
-- Credential Verification Open-source 
+- Credential verification open-source 
   - [neuzida](https://neuzida.io)
     - [Webmazer Project](https://neuzida.io)
 
