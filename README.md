@@ -9,10 +9,10 @@
 - Prepping for Security certs
 - [Facilitating tech/web3 training & sessions](https://neuzida.io)
 - Writing, and developing curricula 
-  - [neuzida](https://neuzida.io) an edutech provider 
+  - [neuzida](https://neuzida.io) a human-centered edtech solution
 - [Writing blog posts](https://nerissa.io) 
-- Managing projects/iterations by data & metrics 
-- Creating & automating bots and processes
+- [Managing projects/iterations by data & metrics](https://neuzida.io)
+- [Creating & automating bots and processes](https://neuzida.io)
 - Designing with security at forefront
 - DeEd (decentralized education solution w/credential verification 
   - [neuzida](https://neuzida.io)
