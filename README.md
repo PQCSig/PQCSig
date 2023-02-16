@@ -1,6 +1,7 @@
 <h3> Hi there 👋, I'm Nerissa</h3>
 
 #### 📃 About me
+- 👩🏽‍💻  &nbsp;Human-Centered Technologist
 - 💻  &nbsp;Focused on Security, DApps, Blockchain and AI DataSci
 - 😊  &nbsp;Open-source enthusiast
 - 📫  &nbsp;Reach me [at] [nerissa.io](https://www.nerissa.io)
@@ -11,7 +12,7 @@
 - Writing, and developing curricula 
   - [neuzida](https://neuzida.io) a human-centered edtech solution
 - [Writing blog posts](https://nerissa.io) 
-- [Managing projects/iterations by data & metrics](https://neuzida.io)
+- Managing projects/iterations by data & metrics
 - [Creating & automating bots and processes](https://neuzida.io)
 - Designing with security at forefront
 - DeEd (decentralized education solution w/credential verification 
