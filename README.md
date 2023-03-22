@@ -10,12 +10,11 @@
 - Prepping for Security certs
 - [Facilitating tech/web3 training & sessions](https://neuzida.io)
 - Prompt engineering, writing, and developing curricula 
-  - [neuzida](https://neuzida.io) a human-centered edtech solution
+  - [neuzida](https://neuzida.io) a human-centered learning solution
 - [Writing blog posts](https://nerissa.io) 
 - Managing projects/iterations by data & metrics
 - [Creating & automating bots and processes](https://neuzida.io)
-- DeEd project is on hold (decentralized education solution w/credential verification 
-  - [neuzida](https://neuzida.io)
+- DeEd project - _on hold_ (decentralized education solution w/credential verification 
     - [Webmazer Project](https://neuzida.io)
 
 #### 👩‍💻&nbsp;Support the maintenance of my open source work by [buying me a coffee](https://www.buymeacoffee.com/Nerissa.io ) for now, and soon sponsor me here &nbsp;🤗
