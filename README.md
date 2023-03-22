@@ -9,7 +9,7 @@
 #### 🌱 What I'm up to
 - Prepping for Security certs
 - [Facilitating tech/web3 training & sessions](https://neuzida.io)
-- Prompt engineering, writing, and developing curricula 
+- AI Prompt engineering, writing, and developing curricula 
   - [neuzida](https://neuzida.io) a human-centered learning solution
 - [Writing blog posts](https://nerissa.io) 
 - Managing projects/iterations by data & metrics
