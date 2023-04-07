@@ -9,9 +9,9 @@
 #### 🌱 What I'm up to
 - Prepping for Security certs
 - [Facilitating tech/web3 training & sessions](https://neuzida.io)
-- AI Prompt engineering, writing, and developing curricula 
+- Azure AI engineering, writing, and developing curricula 
   - [neuzida](https://neuzida.io) a human-centered learning solution
-  - [Creating & automating bots and processes](https://neuzida.io)
+  - [Developing AI/NLP solutions](https://neuzida.io)
   - Managing projects/iterations by data & metrics
 - [Writing blog posts](https://nerissa.io) 
 - DeEd project - _on hold_ (decentralized education solution w/credential verification 
