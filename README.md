@@ -10,7 +10,7 @@
 - Prepping for Security certs
 - [Facilitating tech/web3 training & sessions](https://neuzida.io)
 - Azure AI engineering, writing, and developing curricula 
-  - [neuzida](https://neuzida.io) a human-centered learning solution
+  - [neuzida](https://neuzida.io) a human-centered AI 
   - [Developing AI/NLP solutions](https://neuzida.io)
   - Managing projects/iterations by data & metrics
 - [Writing blog posts](https://nerissa.io) 
