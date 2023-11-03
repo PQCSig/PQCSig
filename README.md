@@ -2,7 +2,7 @@
 
 #### 📃 About me
 - 👩🏽‍💻  &nbsp;Human-Centered Technologist
-- 💻  &nbsp;Focused on Security, AI datasci and Blockchain
+- 💻  &nbsp;Focused on ML Security, AI datasci and Blockchain
 - 😊  &nbsp;Open-source enthusiast
 - 📫  &nbsp;Reach me [at] [nerissa.io](https://www.nerissa.io)
 
