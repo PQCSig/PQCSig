@@ -11,7 +11,7 @@
 - Cross training for quantum computing 
 - [Facilitating tech/web3 training & sessions](https://neuzida.io)
 - Plan and manage Azure AI & NLP solutions
-  - [neuzida](https://neuzida.io) human-centered AI 
+  - [neuzida](https://neuzida.io) 
   - [Developing AI/NLP solutions](https://neuzida.io)
   - Managing projects/iterations by data & metrics
 - [Writing blog posts](https://nerissa.io) 
