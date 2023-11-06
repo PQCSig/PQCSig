@@ -2,14 +2,15 @@
 
 #### 📃 About me
 - 👩🏽‍💻  &nbsp;Human-Centered Technologist
-- 💻  &nbsp;Focused on ML Security, AI datasci and Blockchain
+- 💻  &nbsp;Certified Azure AI Engineer, focused on ML Security, and Blockchain
 - 😊  &nbsp;Open-source enthusiast
 - 📫  &nbsp;Reach me [at] [nerissa.io](https://www.nerissa.io)
 
 #### 🌱 What I'm up to
 - Prepping for Security certs
+- Cross training for quantum computing 
 - [Facilitating tech/web3 training & sessions](https://neuzida.io)
-- AI/NLP engineering, writing, and developing curricula 
+- Plan and manage Azure AI & NLP solutions
   - [neuzida](https://neuzida.io) human-centered AI 
   - [Developing AI/NLP solutions](https://neuzida.io)
   - Managing projects/iterations by data & metrics
