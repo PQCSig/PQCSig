@@ -14,7 +14,7 @@
 - Applying a human centric approach to AI Security 
   - [neuzida](https://neuzida.io) 
   - Managing projects/iterations by data & metrics
-- [Sharing my thoughts](https://nerissa.io) 
+- [Blogging](https://nerissa.io) 
 - DeEd project - _on hold_ (decentralized education solution w/credential verification 
     - [Webmazer Project](https://neuzida.io)
 
