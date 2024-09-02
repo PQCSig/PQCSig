@@ -1,4 +1,4 @@
-<h3> Hi there 👋, I'm Nerissa</h3>
+<h3> Hi there 👋</h3>
 
 #### 📃 About me
 - 👩🏽‍💻  &nbsp;Human-Centered Technologist
