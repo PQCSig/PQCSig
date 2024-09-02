@@ -9,8 +9,6 @@
 #### 🌱 What I'm up to
 - AI Security Research, bug bounties and doing hard things
 - Prepping for Security certs
-- Cross training for quantum computing 
-- [Facilitating tech/web3 training & sessions](https://neuzida.io)
 - Applying a human centric approach to AI Security 
   - [neuzida](https://neuzida.io) 
   - Managing projects/iterations by data & metrics
