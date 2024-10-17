@@ -1,7 +1,7 @@
 <h3> Hi there 👋</h3>
 
 #### 📃 About me
-- 👩🏽‍💻  &nbsp;Human-Centered Technologist
+- 👩🏽‍💻  &nbsp;Human-Centered 
 - 💻  &nbsp;Research Engineer with Azure AI, Data Science, and Blockchain certs- prioritizing Security. 
 - 😊  &nbsp;Open-source enthusiast
 - 📫  &nbsp;Reach me [at] [nerissa.io](https://www.nerissa.io)
