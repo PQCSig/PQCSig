@@ -1,10 +1,12 @@
 <h3> Hi there 👋</h3>
 
+note - See other current repo with agentic stack/quantum 👉 pqcsig1
+
 #### 📃 About me
 - 👩🏽‍💻  &nbsp;Wisdom-tooling AI powered work
 - 💻  &nbsp;Security focused Research Engineer 
 - 😊  &nbsp;Open-source enthusiast
-- 📫  &nbsp;Reach me [at] [nerissa.ai](https://www.nerissa.ai)
+- 📫  &nbsp;Reach me [at]  [nerissa.ai](https://www.nerissa.ai)
 
 #### 🌱 What I'm up to
 - Doing hard things, consistently 
