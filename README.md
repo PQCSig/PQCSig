@@ -1,14 +1,14 @@
 <h3> Hi there 👋</h3>
 
 #### 📃 About me
-- 👩🏽‍💻  &nbsp;Wisdom-tooling | The skill going beyond knowledge work
-- 💻  &nbsp;Security focused Media Research Engineer 
+- 👩🏽‍💻  &nbsp;Wisdom-tooling AI powered work
+- 💻  &nbsp;Security focused Research Engineer 
 - 😊  &nbsp;Open-source enthusiast
 - 📫  &nbsp;Reach me [at] [nerissa.ai](https://www.nerissa.ai)
 
 #### 🌱 What I'm up to
 - Doing hard things, consistently 
-- Building the infrastructure behind trust 
+- Building the agentic stack and infrastructure behind wisdom work
   - [neuzida](https://neuzida.ai) 
   - Managing projects/iterations by data & metrics
 - [Blogging](https://nerissa.ai) 
