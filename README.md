@@ -1,6 +1,6 @@
 <h3> Hi there 👋</h3>
 
-note - See current repo building agentic stack/quantum 👉 [pqcsig1](https://github.com/pqcsig1
+_**note**_ - See current repo building the agentic stack/quantum 👉 [pqcsig1](https://github.com/pqcsig1
 
 #### 📃 About me
 - 👩🏽‍💻  &nbsp;Wisdom-tooling AI powered work
