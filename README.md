@@ -10,7 +10,8 @@ _**note**_ - See current repo building the agentic stack/quantum 👉 [pqcsig1](
 
 #### 🌱 What I'm up to
 - Doing hard things, consistently
-- Applying Quantum Security
+- Building the post knowledge work era, i.e. wisdom-tooling
+- Applying secure by design Quantum Security
 - Building the agentic stack and infrastructure behind wisdom work
   - [neuzida](https://neuzida.ai) 
   - Managing projects/iterations by data & metrics
