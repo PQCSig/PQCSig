@@ -15,7 +15,6 @@ _**note**_ - See current repo building the agentic stack/quantum 👉 [pqcsig1](
 - Building the agentic stack and infrastructure behind wisdom work
   - [neuzida](https://neuzida.ai) 
   - Managing projects/iterations by data & metrics
-- [Blogging](https://nerissa.ai) 
 - DeEd project - _on hold_ (decentralized education solution w/credential verification 
     - [Webmazer Project](https://neuzida.io)
 
