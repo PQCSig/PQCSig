@@ -10,7 +10,7 @@ _**note**_ - See current repo building the agentic stack/quantum 👉 [pqcsig1](
 
 #### 🌱 What I'm up to
 - Doing hard things, consistently
-- Applied Learning Quantum Computing 
+- Applying Quantum Security
 - Building the agentic stack and infrastructure behind wisdom work
   - [neuzida](https://neuzida.ai) 
   - Managing projects/iterations by data & metrics
